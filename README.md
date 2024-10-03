@@ -10,7 +10,6 @@
         - [debian](#debian)
     - [MacOS](#macos)
     - [Windows](#windows)
-    - [Source](#source)
 5. [Usage](#usage)
     - [Basic Commands](#basic-commands)
     - [Options](#options)
@@ -22,11 +21,12 @@
 10. [Contributing](#contributing)
 11. [License](#license)
 
-
 ---
+
 
 ## Introduction
 Brief introduction about the software, what it does, and why it's useful.
+
 
 ## Prerequisites
 List any software, libraries, or system requirements needed before installing the software.
@@ -34,6 +34,7 @@ List any software, libraries, or system requirements needed before installing th
 - **Operating System:** (e.g., Linux, Windows, macOS)
 - **Dependencies:** (e.g., Python, Rust, Docker)
 - **Other Requirements:** (e.g., admin rights, network access)
+
 
 ## Installation
 Step-by-step guide on how to install the software. Include instructions for different operating systems if applicable.
@@ -65,14 +66,6 @@ choco install <software-name>
 ```
 
 
-### Source
-1. Clone the repository:  
-`git clone https://github.com/username/repo.git`
-2. Navigate to the directory:  
-`cd repo`
-3. Build the software:  
-`make build`
-
 ## Usage
 Explain how to use the software, along with some common commands.
 
@@ -91,6 +84,7 @@ Explain how to use the software, along with some common commands.
 <software-name> --help
 <software-name> -c config.toml
 ```
+
 
 ## Configuration
 Details about configuration is found in [docs](https://github.com/PaneradFisk/sw-template/blob/main/docs/)
