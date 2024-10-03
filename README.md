@@ -5,6 +5,9 @@
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
     - [Linux](#linux)
+        - [flatpak](#flatpak)
+        - [rhel](#rhel)
+        - [debian](#debian)
     - [MacOS](#macos)
     - [Windows](#windows)
     - [Source](#source)
@@ -18,6 +21,7 @@
 9. [Support](#support)
 10. [Contributing](#contributing)
 11. [License](#license)
+
 
 ---
 
@@ -89,17 +93,9 @@ Explain how to use the software, along with some common commands.
 ```
 
 ## Configuration
-Details about configuration files or environment variables. Provide a sample configuration if applicable.
+Details about configuration is found in [docs](https://github.com/PaneradFisk/sw-template/blob/main/docs/)
+- [Default Configuration](https://github.com/PaneradFisk/sw-template/blob/main/docs/default_config.toml)
 
-### Default configuration
-[Default Configuration](https://github.com/PaneradFisk/sw-template/blob/main/docs/default_config.toml)
-
-### Example config file
-```toml
-[window]
-border = 1
-setting2 = "nice setting"
-```
 
 ## Troubleshooting
 Common issues and how to resolve them.
@@ -124,26 +120,12 @@ If there is none, please open a new issue from the templates available.
 
 ## Contributing
 Guidelines for contributing to the project.
-
-> Fork the repository  
-> Create a new branch  
-> Submit a pull request  
-
+1. Fork the repository  
+2. Create a new branch  
+3. Submit a pull request  
 
 ## License
 This software is licensed under the MIT License. See the [LICENSE](https://github.com/PaneradFisk/sw-template/blob/main/LICENSE/license) file for more information.
-
-You can modify sections depending on the type of software and what additional information is needed.
-
-
-
-
-
-
-
-
-
-
 
 
 
