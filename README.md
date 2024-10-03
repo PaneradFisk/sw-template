@@ -35,12 +35,18 @@ List any software, libraries, or system requirements needed before installing th
 Step-by-step guide on how to install the software. Include instructions for different operating systems if applicable.
 
 ### Linux
+##### flatpak
 ```bash
-# flatpak
 flatpak install <software-name>
-# rhel based
+```
+
+##### rhel
+```bash
 sudo dnf install <software-name>
-# debian based
+```
+
+##### debian
+```bash
 sudo apt install <software-name>
 ```
 
@@ -72,9 +78,9 @@ Explain how to use the software, along with some common commands.
 ```
 
 ### Options
-`-h, --help`: Show help information
-`-v, --version`: Show software version
-`-c, --config <file>`: Specify a configuration file
+`-h, --help`: Show help information  
+`-v, --version`: Show software version  
+`-c, --config <file>`: Specify a configuration file  
 
 ### Examples
 ```bash 
