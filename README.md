@@ -86,7 +86,7 @@ Explain how to use the software, along with some common commands.
 Details about configuration files or environment variables. Provide a sample configuration if applicable.
 
 ### Default configuration
-[default config](todo:/link/to/default-config)
+[Default Configuration](https://github.com/PaneradFisk/sw-template/blob/main/docs/default_config.toml)
 
 ### Example config file
 ```toml
@@ -112,7 +112,8 @@ A: Yes, with some adjustments. Please refer to the Installation section.
 
 
 ## Support
-Please open an [issue](todo:link/to/issues) with correct available templating.
+Please check if there is already an open [issue](https://github.com/PaneradFisk/sw-template/issues) regarding your problem.  
+If there is none, please open a new issue from the templates available. 
 
 
 ## Contributing
@@ -124,7 +125,7 @@ Guidelines for contributing to the project.
 
 
 ## License
-This software is licensed under the MIT License. See the [LICENSE](todo:link/to/license) file for more information.
+This software is licensed under the MIT License. See the [LICENSE](https://github.com/PaneradFisk/sw-template/blob/main/LICENSE/license) file for more information.
 
 You can modify sections depending on the type of software and what additional information is needed.
 
